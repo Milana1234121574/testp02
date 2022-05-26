@@ -1,3 +1,5 @@
 class BirthDate :
 	public Event {
+public:
+void show();
 }
