@@ -1,0 +1,3 @@
+class BirthDate :
+	public Event {
+}
